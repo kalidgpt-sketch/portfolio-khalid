@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://kalidgpt-sketch.github.io/portfolio-khalid/sitemap.xml
